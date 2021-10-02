@@ -11,9 +11,8 @@ The goal of this analysis is to create a multiple-line graph that shows the tota
 •	Matlab.plot
 •	pandas
 ## Data Frames
-https://github.com/JohnCselcuk/PyBer_Analysis/blob/main/Resources/PyBer_ride_data.csv
-https://github.com/JohnCselcuk/PyBer_Analysis/blob/main/Resources/city_data.csv
-https://github.com/JohnCselcuk/PyBer_Analysis/blob/main/Resources/ride_data.csv
+- [city_data.csv]https://github.com/JohnCselcuk/PyBer_Analysis/blob/main/Resources/city_data.csv
+- [ride_data.csv]https://github.com/JohnCselcuk/PyBer_Analysis/blob/main/Resources/ride_data.csv
 
 
 
