@@ -19,6 +19,9 @@ The purpose of this analysis is to create data frame and find out the results th
 
 
 ## Results
+PyBer ride-sharing data was combined from city_data.csv and ride_data.csv files, in order to produce a summary of Total Ride, Total Drivers, Total Fares, Average fare per ride, and Average Fare per Driver.
+
+![Total Results](https://user-images.githubusercontent.com/85411967/135727952-7e2a0b02-d49d-4576-bf1a-cd94864d6f89.png)
 
 
 
