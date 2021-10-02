@@ -23,6 +23,9 @@ PyBer ride-sharing data was combined from city_data.csv and ride_data.csv files,
 
 ![Total Results](https://user-images.githubusercontent.com/85411967/135727952-7e2a0b02-d49d-4576-bf1a-cd94864d6f89.png)
 
+We have created multiple-line chart for this analysis, we are able to compare total fares by city type over a period of five months. The number of rides looks like peak at the end of February and fluctuates during the month of March. All the graphs tend to follow the same trend throughout these months, except for the trend in suburban cities, where we see a sharper increase during the month of April.
+
+![PyBer_fare_summary](https://user-images.githubusercontent.com/85411967/135728048-1247050f-d90b-4657-909c-7e9537c39d65.png)
 
 
 
