@@ -36,4 +36,7 @@ We have created multiple-line chart for this analysis, we are able to compare to
 
 
 ## Summary
+It is recommended PyBer conduct this analysis with rider demographics, such as pollution, age range, and gender, as this could impact analysis. PyBer would also benefit from conducting this analysis periodically in order to determine if drivers are needed in a particular area. From our data we can tell what kind of fares will be commanded based on what city type the passenger is catching a ride in. 
+
+Ultimately, the average fare per ride shows a gradual increase from more populated cites to less populated cities. However, the average fare per drive increases, when following the same trend. This indicates that the number of drivers may be exponentially lower than expected. The company may want to allocate more drivers to rural areas to optimize its profits.
 
