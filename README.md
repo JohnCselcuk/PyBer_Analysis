@@ -41,4 +41,4 @@ It is recommended PyBer conduct this analysis with rider demographics, such as p
 Ultimately, the average fare per ride shows a gradual increase from more populated cites to less populated cities. However, the average fare per drive increases, when following the same trend. This indicates that the number of drivers may be exponentially lower than expected. The company may want to allocate more drivers to rural areas to optimize its profits.
 
 Thank you for you time 
-- John
+-John
