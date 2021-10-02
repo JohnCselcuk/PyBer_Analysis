@@ -27,6 +27,10 @@ We have created multiple-line chart for this analysis, we are able to compare to
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/85411967/135728048-1247050f-d90b-4657-909c-7e9537c39d65.png)
 
+## Results by city type:
+•	Rural cities has the least amount of drivers, rides and total fares.
+•	Urban cities have the most amount of drivers, rides and total fares.
+•	Suburban cities are in the middle having the 2nd most drivers, rides and total fares.
 
 
 
