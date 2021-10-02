@@ -10,8 +10,6 @@ The purpose of this analysis is to create data frame and find out the results th
 •	Matplotlib 
 •	Matlab.plot
 •	pandas
-
-## Data Frames
 - [city_data.csv](https://github.com/JohnCselcuk/PyBer_Analysis/blob/main/Resources/city_data.csv)
 - [ride_data.csv](https://github.com/JohnCselcuk/PyBer_Analysis/blob/main/Resources/ride_data.csv)
 
